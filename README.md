@@ -1,2 +1,6 @@
 # BITP1113-Week02
+
 BITP 1113 Programming Technique - Week 02 lab
+
+IRFAN ZAFRAN BIN SALLEH, B032610242, BITC
+
